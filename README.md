@@ -18,7 +18,7 @@ Tukey HSD indicated:
 
 ## 👤 Authors
 - **Harneyyer Clores**
-- **Espiritu**
+- **Joseph Espiritu**
 
 ## 🛠 Tools Used
 - RStudio 2025
