@@ -1,5 +1,5 @@
 ## PlantGrowth one-way ANOVA
-## Author: Harneyyer Clores
+## Author: Harneyyer Clores and Joseph Espiritu
 
 
 library(tidyverse)
@@ -53,3 +53,4 @@ cat(sprintf(
   "One-way ANOVA: F(%d, %d) = %.2f, p = %.4f, partial eta^2 = %.2f\n",
   df1, df2, F_val, p_val, eta2
 ))
+
